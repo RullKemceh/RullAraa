@@ -36,7 +36,7 @@ global.footer = 'ItsRull' //ubah jadi nama mu, note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com'
 global.ig = 'https://instagram.com'
 global.mygc = 'https://chat.whatsapp.com/E8teQ7sHHVVIBbGhQod2ul'
-global.myweb = 'https://google.co.uk'
+global.myweb = 'https://urlis.net/RullBotz'
 global.email = 'itsrullgtps@gmail.com'
 global.region = 'indonesia'
 
